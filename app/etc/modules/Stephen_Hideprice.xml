@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<config>
+    <modules>
+        <Stephen_Hideprice>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Stephen_Hideprice>
+    </modules>
+</config>
